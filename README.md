@@ -1,3 +1,6 @@
+{{! Change mustache delimiter to <% and %> }}
+{{=<% %>=}}
+
 # Protojure
 
 Protojure is first-class [Clojure](https://clojure.org/) support for
